@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piyush-jagtap
-- 👨‍💻 I’m love developing applications/software.
+- 👨‍💻 I love creating and maintaining applications/software.
 - 🧑‍💼 I’m currently working at Valectus Pvt. Ltd.
 - 📫 How to reach me piyushjagtap@mes.ac.in
 
